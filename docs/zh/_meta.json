@@ -1,0 +1,17 @@
+[
+  {
+    "text": "指导",
+    "link": "/guide/start/quick",
+    "activeMatch": "/guide/"
+  },
+  {
+    "text": "下载",
+    "link": "/downloads/",
+    "activeMatch": "/downloads/"
+  },
+  {
+    "text": "社区",
+    "link": "/community/",
+    "activeMatch": "/community/"
+  }
+]

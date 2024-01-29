@@ -1,0 +1,17 @@
+[
+    {
+      "type": "dir",
+      "name": "start",
+      "label": "getting-started"
+    },
+    {
+      "type": "dir",
+      "name": "user",
+      "label": "features-for-users"
+    },
+    {
+      "type": "dir",
+      "name": "developer",
+      "label": "developer guide"
+    }
+  ]
