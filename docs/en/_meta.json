@@ -1,21 +1,17 @@
 [
   {
-    "text": "Guide",
+    "label": "guide",
     "link": "/guide/start/quick",
     "activeMatch": "/guide/"
   },
   {
-    "text": "Downloads",
+    "label": "downloads",
     "link": "/downloads/",
     "activeMatch": "/downloads/"
   },
   {
-    "text": "Community",
+    "label": "community",
     "link": "/community/",
     "activeMatch": "/community/"
-  },
-  {
-    "text": "API",
-    "link": "https://rspress.dev/api/index.html"
   }
 ]
