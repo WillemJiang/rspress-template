@@ -1,0 +1,26 @@
+{
+    "getting-started": {
+      "zh": "上手指南",
+      "en": "Getting Started"
+    },
+    "downloads": {
+        "zh": "下载",
+        "en": "Downloads"
+    },
+    "community": {
+      "zh": "社群",
+      "en": "Community"
+    },
+    "guide": {
+      "zh": "指南",
+      "en": "Guide"
+    },
+    "features-for-users": {
+        "zh": "用户手册",
+        "en": "User Guide"
+    },
+    "developer-guide": {
+        "zh": "开发手册",
+        "en": "Developer Guide"
+    }
+  }
