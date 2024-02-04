@@ -5,6 +5,8 @@ export default defineConfig({
   markdown: {
     checkDeadLinks: true,
   },
+  // Setup the base directory for the website deployment
+  base: '/rspress-template/',
   root: path.join(__dirname, 'docs'),
   title: 'template-site',
   lang: 'en',
