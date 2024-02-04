@@ -18,7 +18,7 @@ export default defineConfig({
   },
   themeConfig: {
     socialLinks: [
-      { icon: 'github', mode: 'link', content: 'https://github.com/web-infra-dev/rspress' },
+      { icon: 'github', mode: 'link', content: 'https://github.com/willemJiang/rspress-template/' },
     ],
     locales: [
       {
@@ -26,7 +26,7 @@ export default defineConfig({
         label: '简体中文',
         editLink: {
           docRepoBaseUrl:
-            'https://github.com/web-infra-dev/rspress/tree/main/packages/document/docs',
+            'https://github.com/willemJiang/rspress-template/tree/main/docs',
           text: '📝 在 GitHub 上编辑此页',
         },
         prevPageText: '上一篇',
@@ -38,7 +38,7 @@ export default defineConfig({
         label: 'English',
         editLink: {
           docRepoBaseUrl:
-            'https://github.com/web-infra-dev/rspress/tree/main/packages/document/docs',
+            'https://github.com/willemJiang/rspress-template/tree/main/docs',
           text: '📝 Edit this page on GitHub',
         },
       },

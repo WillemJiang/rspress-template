@@ -4,14 +4,14 @@ pageType: home
 hero:
   name: 网站模版
   text: Rspack基于的静态网站生成器模板
-  tagline: template-site tagline
+  tagline: 轻松生成项目网站
   actions:
     - theme: brand
-      text: Quick Start
-      link: /guide/
+      text: 快速入门
+      link: /guide/start/quick
     - theme: alt
       text: Github
-      link: https://github.com/bytedance/template
+      link: https://github.com/willemJiang/rspress-template/
   image:
     src: /rspress-icon.png
     alt: template-site Logo

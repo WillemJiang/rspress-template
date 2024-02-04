@@ -4,14 +4,14 @@ pageType: home
 hero:
   name: template-site
   text: Rspack-based Static Site Generator template
-  tagline: template-site tagline
+  tagline: Generate the project website in an easy way
   actions:
     - theme: brand
       text: Quick Start
-      link: /guide/
+      link: /guide/start/quick
     - theme: alt
       text: Github
-      link: https://github.com/bytedance/template
+      link: https://github.com/willemJiang/rspress-template/
   image:
     src: /rspress-icon.png
     alt: template-site Logo
