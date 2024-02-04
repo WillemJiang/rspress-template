@@ -1,16 +1,16 @@
 [
   {
-    "label": "guide",
+    "text": "手册",
     "link": "/guide/start/quick",
     "activeMatch": "/guide/"
   },
   {
-    "label": "downloads",
+    "text": "下载",
     "link": "/downloads/",
     "activeMatch": "/downloads/"
   },
   {
-    "label": "community",
+    "text": "社群",
     "link": "/community/",
     "activeMatch": "/community/"
   }

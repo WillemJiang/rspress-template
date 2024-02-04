@@ -1,16 +1,16 @@
 [
   {
-    "label": "guide",
+    "text": "Guide",
     "link": "/guide/start/quick",
     "activeMatch": "/guide/"
   },
   {
-    "label": "downloads",
+    "text": "Downloads",
     "link": "/downloads/",
     "activeMatch": "/downloads/"
   },
   {
-    "label": "community",
+    "text": "Community",
     "link": "/community/",
     "activeMatch": "/community/"
   }
