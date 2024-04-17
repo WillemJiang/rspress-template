@@ -1,7 +1,9 @@
 import * as path from 'path';
 import { defineConfig } from 'rspress/config';
+import { pluginShiki } from '@rspress/plugin-shiki';
 
 export default defineConfig({
+  plugins: [pluginShiki()],
   markdown: {
     checkDeadLinks: true,
   },
